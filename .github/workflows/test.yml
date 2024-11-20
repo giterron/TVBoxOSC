@@ -21,9 +21,9 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: q215613905
+          - userName: giterron
             repoName: TVBoxOS
-            branchName: main
+            branchName: oldTv
           - userName: takagen99
             repoName: Box
             branchName: main

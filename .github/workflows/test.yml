@@ -22,8 +22,9 @@ jobs:
       matrix:
         include:
           - userName: giterron
-            repoName: TVBoxOS
-            branchName: oldTv
+            repoName: T
+            branchName: main
+            java_ver: 8
           - userName: takagen99
             repoName: Box
             branchName: main

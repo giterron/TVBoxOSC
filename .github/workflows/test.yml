@@ -22,9 +22,9 @@ jobs:
       matrix:
         include:
           - userName: giterron
-            repoName: T
-            branchName: main
-            java_ver: 8
+            repoName: TV
+            branchName: kitkat
+            java_ver: 17
           - userName: takagen99
             repoName: Box
             branchName: main
